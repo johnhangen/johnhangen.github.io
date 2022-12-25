@@ -25,4 +25,4 @@ My website is made with react and tailwinds and hosted on AWS using AWS amplify 
 
 ## Resources Used ##
 
-* <a herf="https://learn.mongodb.com/">https://learn.mongodb.com</a>
+* 
